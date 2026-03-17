@@ -467,9 +467,6 @@ st.markdown("""
 <div class="main-header">
     <h1>🏥 Commure RCM Claims QA Dashboard</h1>
     <p>Zero-error quality checks for Revenue Cycle Management · Built by <strong>Amit Bikram Roy</strong></p>
-
-    <span class="badge" style="margin-left:8px;">⚡ Real-Time Filters</span>
-</div>
 """, unsafe_allow_html=True)
 
 # ─────────────────────────────────────────────
