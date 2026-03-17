@@ -4,9 +4,9 @@
 > Built by **Amit Bikram Roy** · Final-year CS @ IUB Dhaka  
 > Portfolio project for **Data Operations Analyst** — Commure / Augmedix
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/cloud)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([https://streamlit.io/cloud](https://rcm-app-dashboard-app.streamlit.app/))
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
-![Streamlit](https://rcm-app-dashboard-app.streamlit.app/)
+
 ![Plotly](https://img.shields.io/badge/Plotly-5.18%2B-purple)
 
 ---
