@@ -873,9 +873,7 @@ with tab3:
 # ─────────────────────────────────────────────
 st.markdown("""
 <div class="footer">
-    Built in 1 evening &nbsp;•&nbsp; Night-shift friendly &nbsp;•&nbsp;
-    <span>Python + Streamlit + Plotly</span> &nbsp;•&nbsp;
-    <span>Amit Bikram Roy</span> · Final-year CS · IUB Dhaka &nbsp;•&nbsp;
-    Portfolio project for <span>Commure / Augmedix</span> Data Operations Analyst Role
+    Built in 1 evening &nbsp;
+    <span>by Amit Bikram Roy</span> &nbsp;
 </div>
 """, unsafe_allow_html=True)
