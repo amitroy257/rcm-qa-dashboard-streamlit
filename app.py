@@ -434,15 +434,15 @@ with st.sidebar:
 
     st.markdown("---")
     if data_source == "synthetic":
-        st.info("📂 **Demo mode** — using synthetic data.\nAdd `claims.csv` to the folder to load real data.")
+        st.info("📂 Using synthetic data.\nAdd `claims.csv` to the folder to load real data.")
     else:
         st.success("✅ **Real data loaded** from `claims.csv`")
 
     st.markdown("""
     <div style='font-size:0.75rem; color:#475569; margin-top:1rem; line-height:1.6;'>
         Built by <span style='color:#38bdf8; font-weight:600;'>Amit Bikram Roy</span><br>
-        Final-year CS · IUB Dhaka<br>
-        🌙 Night-shift optimised
+        <br>
+      
     </div>
     """, unsafe_allow_html=True)
 
@@ -467,8 +467,7 @@ st.markdown("""
 <div class="main-header">
     <h1>🏥 Commure RCM Claims QA Dashboard</h1>
     <p>Zero-error quality checks for Revenue Cycle Management · Built by <strong>Amit Bikram Roy</strong></p>
-    <span class="badge">📊 Data Operations Analyst — Portfolio Project</span>
-    <span class="badge" style="margin-left:8px;">🌙 Night-Shift Friendly</span>
+
     <span class="badge" style="margin-left:8px;">⚡ Real-Time Filters</span>
 </div>
 """, unsafe_allow_html=True)
