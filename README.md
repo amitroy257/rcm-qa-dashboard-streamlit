@@ -6,7 +6,7 @@
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io/cloud)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
-![Streamlit](https://img.shields.io/badge/Streamlit-1.32%2B-red)
+![Streamlit](https://rcm-app-dashboard-app.streamlit.app/)
 ![Plotly](https://img.shields.io/badge/Plotly-5.18%2B-purple)
 
 ---
