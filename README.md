@@ -132,6 +132,7 @@ SQL Champion | National Chess Player (FIDE 2064)
 - 🐍 Python · Pandas · NumPy · Matplotlib · Power BI · Excel
 
 ---
+![alt text](https://github.com/amitroy257/rcm-qa-dashboard-streamlit/blob/main/Screenshot%202026-03-18%20004357.png)
 
 ## 📄 License
 
