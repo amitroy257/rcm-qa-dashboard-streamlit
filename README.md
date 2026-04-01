@@ -1,6 +1,6 @@
 # 🏥 RCM Claims QA Dashboard
 # Live Website :  https://rcm-app-dashboard-app.streamlit.app/
-> **Zero-error quality checks for Revenue Cycle Management**  
+> **Revenue Cycle Management**  
 > Built by **Amit Bikram Roy** · Final-year CS @ IUB Dhaka  
 > Portfolio project for **Data Operations Analyst** — Commure / Augmedix
 
