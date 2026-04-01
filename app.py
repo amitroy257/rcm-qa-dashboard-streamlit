@@ -466,7 +466,7 @@ if date_range and len(date_range) == 2:
 st.markdown("""
 <div class="main-header">
     <h1>🏥 Commure RCM Claims QA Dashboard</h1>
-    <p>Zero-error quality checks for Revenue Cycle Management · Built by <strong>Amit Bikram Roy</strong></p>
+    <p>Built by <strong>Amit Bikram Roy</strong></p>
 """, unsafe_allow_html=True)
 
 # ─────────────────────────────────────────────
